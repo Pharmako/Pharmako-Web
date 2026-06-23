@@ -1,0 +1,99 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", "Helvetica Neue", sans-serif;
+  --font-display: "Outfit", "Helvetica Neue", sans-serif;
+  --font-serif: "Cormorant Garamond", Georgia, serif;
+  --font-mono: "Share Tech Mono", Courier, monospace;
+
+  --color-matrix: #00FF41;
+  --color-charcoal: #0A0A0A;
+  --color-charcoal-light: #161616;
+  --color-charcoal-border: rgba(255, 255, 255, 0.08);
+  --color-moss: #2E4036;
+  --color-clay: #CC5833;
+  --color-cream: #F2F0E9;
+
+  --animate-cursor-blink: cursor-blink 1s step-end infinite;
+  --animate-pulse-slow: pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+@keyframes cursor-blink {
+  from, to { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #000000;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #161616;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #00FF41;
+}
+
+/* Global Reset & Styling */
+html, body, #root {
+  background-color: #000000 !important;
+  color: #FFFFFF;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  font-family: var(--font-sans);
+  scroll-behavior: smooth;
+}
+
+/* Global CSS Noise Overlay */
+.noise-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  content: "";
+  opacity: 0.045; /* 0.05 in GEMINI.md - optimized for cyberpunk visibility */
+  z-index: 9999;
+  pointer-events: none;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+}
+
+/* Custom Utilities for Premium Aesthetics */
+.glass-panel {
+  background: rgba(10, 10, 10, 0.65);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.text-glow {
+  text-shadow: 0 0 10px rgba(0, 255, 65, 0.35);
+}
+
+.border-glow {
+  box-shadow: 0 0 20px rgba(0, 255, 65, 0.15);
+}
+
+/* Stacking card configurations */
+.stacking-card {
+  position: sticky;
+  top: 10vh;
+  height: 80vh;
+}
+
+/* Selection */
+::selection {
+  background-color: rgba(0, 255, 65, 0.25);
+  color: #00FF41;
+}
