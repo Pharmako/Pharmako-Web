@@ -94,11 +94,11 @@ export default function Protocol() {
             </div>
             
             <h3 className="card-reveal text-2xl sm:text-3.5xl font-display font-extrabold text-white leading-tight">
-              Seleção da Propriedade Intelectual (Pesquisa do Nome)
+              Etapa 1: O Seu Nome Oficial (O Domínio)
             </h3>
             
             <p className="card-reveal text-sm sm:text-base text-white/60 leading-relaxed font-light">
-              Escolhemos e garantimos o registro do seu nome oficial (o seu <span className="text-matrix font-mono">.com.br</span>) perante os órgãos de registro do Governo brasileiro. Verificamos a disponibilidade e blindamos a sua marca na rede.
+              Ajudamos você a registrar o seu <span className="text-matrix font-mono">seudominio.com.br</span>. Esse registro custa apenas R$ 50 por ano, pagos diretamente ao órgão oficial. O seu nome fica garantido, blindado e 100% no seu CPF ou CNPJ.
             </p>
             
             <div className="card-reveal flex items-center gap-3 text-xs font-mono text-matrix/80">
@@ -163,11 +163,11 @@ export default function Protocol() {
             </div>
             
             <h3 className="card-reveal text-2xl sm:text-3.5xl font-display font-extrabold text-white leading-tight">
-              Validação do Investimento de Lançamento
+              Etapa 2: O Cadeado de Segurança 🔒
             </h3>
             
             <p className="card-reveal text-sm sm:text-base text-white/60 leading-relaxed font-light">
-              Ativação da infraestrutura global por apenas <span className="text-matrix font-bold">R$ 150,00</span> (primeiro mês, com o custo do registro de domínio incluso). Hospedagem ultra-rápida, SSL blindado e configuração de e-mails profissionais integrados.
+              Sabe aquele aviso de "A conexão é segura" com um cadeado lá no topo do navegador? Nós garantimos isso para você. Hospedamos o seu site em servidores de ponta, com certificado de segurança ativo. Seu cliente navega sem medo.
             </p>
             
             <div className="card-reveal flex items-center gap-3 text-xs font-mono text-matrix/80">
@@ -224,11 +224,11 @@ export default function Protocol() {
             </div>
             
             <h3 className="card-reveal text-2xl sm:text-3.5xl font-display font-extrabold text-white leading-tight">
-              Organização Expressa de Conteúdos
+              Etapa 3: Tudo pelo WhatsApp
             </h3>
             
             <p className="card-reveal text-sm sm:text-base text-white/60 leading-relaxed font-light">
-              Envio rápido das fotos, textos básicos e contatos pelo WhatsApp. Nossa equipe traduz seus materiais em um layout moderno, persuasivo e focado em converter visitantes em orçamentos diretos. Colocamos você no ar em tempo recorde.
+              Zero burocracia e nada de preencher formulários longos. Você nos envia suas fotos, os serviços que presta e seus contatos direto pelo Zap. Nossa equipe organiza tudo num design focado em vendas e coloca você online em tempo recorde.
             </p>
             
             <div className="card-reveal flex items-center gap-3 text-xs font-mono text-matrix/80">

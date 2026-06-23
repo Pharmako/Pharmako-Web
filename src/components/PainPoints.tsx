@@ -163,26 +163,26 @@ export default function PainPoints() {
           >
             {/* Title / Badge */}
             <div className="text-xs font-mono uppercase tracking-[0.2em] text-matrix font-semibold">
-              O Problema dos Terrenos Alugados
+              PARE DE DEPENDER DE TERCEIROS
             </div>
 
             {/* H2 Heading */}
             <h2 
               className="text-[28px] sm:text-[38px] md:text-[44px] font-display font-extrabold text-white leading-tight tracking-tight"
             >
-              Utilizar apenas as Redes Sociais já não é suficiente para demonstrar que o seu negócio é de <span className="text-matrix font-serif italic text-glow">confiança</span>.
+              O Instagram não é seu. O seu site, <span className="text-matrix font-serif italic text-glow">sim</span>.
             </h2>
 
             {/* Body copy */}
             <p 
               className="text-[16px] sm:text-[18px] text-white/80 leading-relaxed font-light"
             >
-              Depender exclusivamente de plataformas de terceiros é como reformar uma loja alugada. As regras podem mudar da noite para o dia, e quem tem a chave pode simplesmente fechar a sua porta.
+              Construir sua marca apenas nas redes sociais é arriscado. Se o algoritmo muda ou sua conta sofre um bloqueio, o seu negócio some da internet da noite para o dia.
             </p>
             <p 
               className="text-[16px] sm:text-[18px] text-white/80 leading-relaxed font-light"
             >
-              Mudanças repentinas de algoritmos, contas bloqueadas sem explicação e alcance orgânico caindo a cada dia. A sua marca precisa, de forma urgente, de <span className="font-semibold text-white border-b border-matrix/50">independência</span>.
+              Ter um site próprio é ter a sua casa: você dita as regras, passa muito mais credibilidade e garante que o seu cliente sempre te encontre. É a <span className="font-semibold text-white border-b border-matrix/50">independência</span> da sua marca.
             </p>
           </div>
 

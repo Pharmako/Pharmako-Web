@@ -173,13 +173,13 @@ export default function Hero({ onCtaClick }: HeroProps) {
             id="hero-title-main" 
             className="text-[30px] sm:text-[54px] md:text-[68px] font-display font-extrabold tracking-tight leading-[1.05] text-white"
           >
-            O Seu Novo Site
+            Site Profissional.
           </span>
           <span 
             id="hero-title-italic" 
             className="text-[34px] sm:text-[60px] md:text-[76px] font-serif italic text-matrix text-glow leading-[1.1]"
           >
-            Profissional na Internet.
+            Preço Acessível.
           </span>
         </h1>
 
@@ -188,7 +188,7 @@ export default function Hero({ onCtaClick }: HeroProps) {
           id="hero-subheadline"
           className="text-[16px] sm:text-[20px] text-white/80 max-w-xl leading-relaxed font-sans font-light"
         >
-          Deixe de perder clientes porque a sua empresa "não transmite confiança". Nós criamos, publicamos e mantemos o seu site institucional funcionando de forma impecável através de uma simples assinatura de <span className="font-semibold text-white">R$ 100 por mês</span>.
+          Parecer profissional na internet não precisa ser caro. Nós criamos e mantemos o seu site rodando perfeitamente. Você paga uma assinatura simples de <span className="font-semibold text-white">R$ 100 por mês</span>, tem o melhor custo-benefício e foca no seu negócio.
         </p>
 
         {/* Primary CTA (Magnetic sliding button) */}
@@ -200,7 +200,7 @@ export default function Hero({ onCtaClick }: HeroProps) {
           >
             <span className="absolute inset-0 w-0 group-hover:w-full bg-white transition-all duration-500 ease-out z-0" />
             <span className="relative z-10 flex items-center gap-3">
-              Quero Ter o Meu Site Agora
+              Quero Meu Site Hoje
               <span className="text-[16px] font-sans">↗</span>
             </span>
           </button>

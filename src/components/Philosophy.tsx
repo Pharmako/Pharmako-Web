@@ -93,10 +93,10 @@ export default function Philosophy() {
               O Modelo Antigo
             </span>
             <h3 className="text-xl sm:text-2xl font-display font-medium text-white/60">
-              A agência tradicional pergunta:
+              A agência tradicional:
             </h3>
             <p className="text-[28px] sm:text-[38px] font-serif italic text-white/40 leading-tight">
-              "Quanto você tem de orçamento para criar um site?"
+              "Cobramos R$ 3.000 para criar o seu site."
             </p>
           </div>
 
@@ -109,13 +109,13 @@ export default function Philosophy() {
               Nosso Manifesto
             </span>
             <h3 className="text-xl sm:text-2xl font-display font-bold text-white">
-              Nós da Pharmako WEB perguntamos:
+              Nós da Pharmako WEB:
             </h3>
             <p className="text-[32px] sm:text-[44px] font-serif italic text-matrix text-glow leading-tight">
-              "Quão rápido podemos colocar a sua empresa no ar?"
+              "Transparência total e sem taxas escondidas."
             </p>
             <p className="text-xs sm:text-sm text-white/80 leading-relaxed font-light max-w-md mt-2">
-              Não cobramos pelo código; cobramos pelo seu funcionamento constante. Eliminamos as barreiras financeiras e a burocracia para que sua marca tenha a autoridade digital que merece imediatamente.
+              Nós mudamos o jogo. Não cobramos uma fortuna pelo código do site. Nosso modelo é simples: no primeiro mês você investe R$ 150 (R$ 100 da assinatura + R$ 50 do seu domínio anual). A partir do segundo mês, são apenas R$ 100 mensais para mantermos seu site rápido, seguro e no ar 24h por dia. Simples assim.
             </p>
           </div>
 
