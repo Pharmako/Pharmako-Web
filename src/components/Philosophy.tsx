@@ -115,7 +115,7 @@ export default function Philosophy() {
               "Transparência total e sem taxas escondidas."
             </p>
             <p className="text-xs sm:text-sm text-white/80 leading-relaxed font-light max-w-md mt-2">
-              Nós mudamos o jogo. Não cobramos uma fortuna pelo código do site. Nosso modelo é simples: no primeiro mês você investe R$ 150 (R$ 100 da assinatura + R$ 50 do seu domínio anual). A partir do segundo mês, são apenas R$ 100 mensais para mantermos seu site rápido, seguro e no ar 24h por dia. Simples assim.
+              Nós mudamos o jogo. Não cobramos uma fortuna pelo código do site. Nosso modelo é simples: no primeiro mês você investe R$ 161,20 (R$ 112,45 da assinatura + R$ 48,75 do seu domínio anual). A partir do segundo mês, são apenas R$ 112,45 mensais para mantermos seu site rápido, seguro e no ar 24h por dia. Simples assim.
             </p>
           </div>
 

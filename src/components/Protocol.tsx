@@ -98,7 +98,7 @@ export default function Protocol() {
             </h3>
             
             <p className="card-reveal text-sm sm:text-base text-white/60 leading-relaxed font-light">
-              Ajudamos você a registrar o seu <span className="text-matrix font-mono">seudominio.com.br</span>. Esse registro custa apenas R$ 50 por ano, pagos diretamente ao órgão oficial. O seu nome fica garantido, blindado e 100% no seu CPF ou CNPJ.
+              Ajudamos você a registrar o seu <span className="text-matrix font-mono">seudominio.com.br</span>. Esse registro custa apenas R$ 48,75 por ano, pagos diretamente ao órgão oficial. O seu nome fica garantido, blindado e 100% no seu CPF ou CNPJ.
             </p>
             
             <div className="card-reveal flex items-center gap-3 text-xs font-mono text-matrix/80">

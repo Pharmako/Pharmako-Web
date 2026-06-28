@@ -18,7 +18,7 @@ export default function App() {
 
     // Redirect after 1.5 seconds of simulated high-end secure connection
     setTimeout(() => {
-      const phoneNumber = '5531975670641'; // User's phone number
+      const phoneNumber = '5531984990640'; // User's phone number
       const encodedText = encodeURIComponent(
         'Olá! Vim pelo site da Pharmako WEB e gostaria de saber mais sobre a assinatura de sites.'
       );

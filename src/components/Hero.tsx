@@ -188,7 +188,7 @@ export default function Hero({ onCtaClick }: HeroProps) {
           id="hero-subheadline"
           className="text-[16px] sm:text-[20px] text-white/80 max-w-xl leading-relaxed font-sans font-light"
         >
-          Parecer profissional na internet não precisa ser caro. Nós criamos e mantemos o seu site rodando perfeitamente. Você paga uma assinatura simples de <span className="font-semibold text-white">R$ 100 por mês</span>, tem o melhor custo-benefício e foca no seu negócio.
+          Parecer profissional na internet não precisa ser caro. Nós criamos e mantemos o seu site rodando perfeitamente. Você paga uma assinatura simples de <span className="font-semibold text-white">R$ 112,45 por mês</span>, tem o melhor custo-benefício e foca no seu negócio.
         </p>
 
         {/* Primary CTA (Magnetic sliding button) */}
@@ -205,7 +205,7 @@ export default function Hero({ onCtaClick }: HeroProps) {
             </span>
           </button>
           <span className="text-xs font-mono text-white/40 pt-2 sm:pt-0 uppercase tracking-widest">
-            Primeiro Mês: R$ 150 (Domínio Incluso)
+            Primeiro Mês: R$ 161,20 (Domínio Incluso)
           </span>
         </div>
       </div>

@@ -23,7 +23,7 @@ export default function Footer() {
             </div>
             
             <p className="text-xs text-white/50 leading-relaxed font-light max-w-sm">
-              Reinventando a presença digital de pequenos negócios através de Website as a Service (WaaS). Design de luxo, velocidade insana e infraestrutura de ponta sob uma assinatura simples de R$ 100/mês.
+              Reinventando a presença digital de pequenos negócios através de Website as a Service (WaaS). Design de luxo, velocidade insana e infraestrutura de ponta sob uma assinatura simples de R$ 112,45/mês.
             </p>
 
             {/* System Status Indicator */}
